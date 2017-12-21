@@ -1,0 +1,18 @@
+{
+	"lang":{
+		"en":"English",
+		"zh-cn":"简体中文"
+	},
+	"Loading...":{
+		"en":"Loading...",
+		"zh-cn":"载入中..."
+	},
+	"Press this button":{
+		"en":"Press this button",
+		"zh-cn":"Нажмите эту кнопку"
+	},
+	"title":{
+		"en":"Title",
+		"zh-cn":"Заголовок"
+	}
+}

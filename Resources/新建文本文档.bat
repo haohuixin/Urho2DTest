@@ -1,0 +1,2 @@
+packageTool CoreData CoreData.pak
+pause
